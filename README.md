@@ -1,2 +1,2 @@
-# Chocolte-cake-C-26
+# Chocolate-cake-C-26
 Recipe name :- Chocolate cake 
